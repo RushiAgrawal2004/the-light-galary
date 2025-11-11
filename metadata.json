@@ -1,0 +1,7 @@
+{
+  "name": "The Gallery of Light",
+  "description": "A quiet digital space for art, beauty, and individuality. A portfolio platform for independent models and photographers to showcase their work without the noise of social media.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
